@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-05T05:04:23.979508200Z</date>
+  <millis>1728104663979</millis>
+  <nanos>508200</nanos>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TS_Product_Navigation_Reptiles</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">3</property>
+  <property name="name">TS_Product_Navigation_Reptiles</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TS_Product_Navigation_Reptiles</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:24.000088300Z</date>
+  <millis>1728104664000</millis>
+  <nanos>88300</nanos>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = WINDOWS11 - Mohan</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">WINDOWS11 - Mohan</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:24.001091400Z</date>
+  <millis>1728104664001</millis>
+  <nanos>91400</nanos>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 11 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Windows 11 64bit</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:24.001091400Z</date>
+  <millis>1728104664001</millis>
+  <nanos>91400</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.1.4</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">192.168.1.4</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:24.002088700Z</date>
+  <millis>1728104664002</millis>
+  <nanos>88700</nanos>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 9.7.2.223</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">9.7.2.223</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:24.224542300Z</date>
+  <millis>1728104664224</millis>
+  <nanos>542300</nanos>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product_Navigation_Reptiles</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Product_Navigation_Reptiles</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Product_Navigation_Reptiles</property>
+  <property name="source">C:\Users\WINDOWS11\git\katalonTeam_EY_Repo\Test Cases\Product_Navigation_Reptiles.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:24.533183300Z</date>
+  <millis>1728104664533</millis>
+  <nanos>183300</nanos>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:25.023682300Z</date>
+  <millis>1728104665023</millis>
+  <nanos>682300</nanos>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;os&amp;apos;, &amp;apos;windows&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:25.026675800Z</date>
+  <millis>1728104665026</millis>
+  <nanos>675800</nanos>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;browserVersion&amp;apos;, &amp;apos;130&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:25.026675800Z</date>
+  <millis>1728104665026</millis>
+  <nanos>675800</nanos>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;browserName&amp;apos;, &amp;apos;msedge&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:25.028189300Z</date>
+  <millis>1728104665028</millis>
+  <nanos>189300</nanos>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;katalon:option&amp;apos;, &amp;apos;{organizationId=1640769, usingTunnel=false}&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:25.036893600Z</date>
+  <millis>1728104665036</millis>
+  <nanos>893600</nanos>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Connecting to remote web server &amp;apos;testcloud.katalon.com/hub&amp;apos; with type &amp;apos;Selenium&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:25.428381Z</date>
+  <millis>1728104665428</millis>
+  <nanos>381000</nanos>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.211595Z</date>
+  <millis>1728104682211</millis>
+  <nanos>595000</nanos>
+  <sequence>18</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Unable to open browser with url: &amp;apos;&amp;apos; (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: &amp;apos;&amp;apos;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Product_Navigation_Reptiles.run(Product_Navigation_Reptiles:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1728104655956.run(TempTestSuite1728104655956.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Could not start a new session. Could not start a new session. Unable to create new session 
+Host info: host: &amp;apos;testcloud-grid-distributor-d685cf49b-fvq9h&amp;apos;, ip: &amp;apos;10.50.12.146&amp;apos;
+Build info: version: &amp;apos;4.19.0&amp;apos;, revision: &amp;apos;5f9cec8963&amp;apos;
+System info: os.name: &amp;apos;Linux&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;6.1.90&amp;apos;, java.version: &amp;apos;17.0.10&amp;apos;
+Driver info: driver.version: unknown
+Build info: version: &amp;apos;4.19.0&amp;apos;, revision: &amp;apos;5f9cec8963&amp;apos;
+System info: os.name: &amp;apos;Linux&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;6.1.90&amp;apos;, java.version: &amp;apos;17.0.10&amp;apos;
+Driver info: driver.version: unknown
+Build info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;unknown&amp;apos;, time: &amp;apos;unknown&amp;apos;
+System info: host: &amp;apos;MOHAN&amp;apos;, ip: &amp;apos;192.168.1.4&amp;apos;, os.name: &amp;apos;Windows 11&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;17.0.7&amp;apos;
+Driver info: driver.version: CRemoteWebDriver
+remote stacktrace: [{fileName=SessionNotCreated.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.SessionNotCreated, lineNumber=56, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$TemplatizedRoute, lineNumber=192, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=RequiresSecretFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.grid.security.RequiresSecretFilter, lineNumber=62, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=NewSessionQueue.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.NewSessionQueue, lineNumber=128, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=AddWebDriverSpecHeaders.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.AddWebDriverSpecHeaders, lineNumber=35, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=SeleniumHandler.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$channelRead0$0, className=org.openqa.selenium.netty.server.SeleniumHandler, lineNumber=44, classLoaderName=app}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=call, className=java.util.concurrent.Executors$RunnableAdapter, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.FutureTask, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=runWorker, className=java.util.concurrent.ThreadPoolExecutor, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.ThreadPoolExecutor$Worker, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.lang.Thread, lineNumber=-1, classLoaderName=null}]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.execute(CRemoteWebDriver.java:30)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&amp;lt;init&amp;gt;(RemoteWebDriver.java:131)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.&amp;lt;init&amp;gt;(CRemoteWebDriver.java:20)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewRemoteWebDriver(DriverFactory.java:566)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startRemoteBrowser(DriverFactory.java:345)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Script1728104263747.run(Script1728104263747.groovy:20)
+	... 15 more
+)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.class">org.openqa.selenium.SessionNotCreatedException</property>
+  <property name="failed.exception.stacktrace">org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Could not start a new session. Could not start a new session. Unable to create new session 
+Host info: host: &apos;testcloud-grid-distributor-d685cf49b-fvq9h&apos;, ip: &apos;10.50.12.146&apos;
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;3.141.59&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;MOHAN&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CRemoteWebDriver
+remote stacktrace: [{fileName=SessionNotCreated.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.SessionNotCreated, lineNumber=56, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$TemplatizedRoute, lineNumber=192, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=RequiresSecretFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.grid.security.RequiresSecretFilter, lineNumber=62, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=NewSessionQueue.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.NewSessionQueue, lineNumber=128, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=AddWebDriverSpecHeaders.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.AddWebDriverSpecHeaders, lineNumber=35, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=SeleniumHandler.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$channelRead0$0, className=org.openqa.selenium.netty.server.SeleniumHandler, lineNumber=44, classLoaderName=app}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=call, className=java.util.concurrent.Executors$RunnableAdapter, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.FutureTask, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=runWorker, className=java.util.concurrent.ThreadPoolExecutor, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.ThreadPoolExecutor$Worker, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.lang.Thread, lineNumber=-1, classLoaderName=null}]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.execute(CRemoteWebDriver.java:30)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.&lt;init&gt;(CRemoteWebDriver.java:20)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewRemoteWebDriver(DriverFactory.java:566)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startRemoteBrowser(DriverFactory.java:345)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Product_Navigation_Reptiles.run(Product_Navigation_Reptiles:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1728104655956.run(TempTestSuite1728104655956.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.message">Could not start a new session. Could not start a new session. Could not start a new session. Unable to create new session 
+Host info: host: &apos;testcloud-grid-distributor-d685cf49b-fvq9h&apos;, ip: &apos;10.50.12.146&apos;
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;3.141.59&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;MOHAN&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CRemoteWebDriver
+remote stacktrace: [{fileName=SessionNotCreated.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.SessionNotCreated, lineNumber=56, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$TemplatizedRoute, lineNumber=192, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=RequiresSecretFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.grid.security.RequiresSecretFilter, lineNumber=62, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=NewSessionQueue.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.NewSessionQueue, lineNumber=128, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=AddWebDriverSpecHeaders.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.AddWebDriverSpecHeaders, lineNumber=35, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=SeleniumHandler.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$channelRead0$0, className=org.openqa.selenium.netty.server.SeleniumHandler, lineNumber=44, classLoaderName=app}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=call, className=java.util.concurrent.Executors$RunnableAdapter, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.FutureTask, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=runWorker, className=java.util.concurrent.ThreadPoolExecutor, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.ThreadPoolExecutor$Worker, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.lang.Thread, lineNumber=-1, classLoaderName=null}]</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.224899600Z</date>
+  <millis>1728104682224</millis>
+  <nanos>899600</nanos>
+  <sequence>21</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.229433100Z</date>
+  <millis>1728104682229</millis>
+  <nanos>433100</nanos>
+  <sequence>24</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product_Navigation_Reptiles FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: &amp;apos;&amp;apos;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Product_Navigation_Reptiles.run(Product_Navigation_Reptiles:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1728104655956.run(TempTestSuite1728104655956.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Could not start a new session. Could not start a new session. Unable to create new session 
+Host info: host: &amp;apos;testcloud-grid-distributor-d685cf49b-fvq9h&amp;apos;, ip: &amp;apos;10.50.12.146&amp;apos;
+Build info: version: &amp;apos;4.19.0&amp;apos;, revision: &amp;apos;5f9cec8963&amp;apos;
+System info: os.name: &amp;apos;Linux&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;6.1.90&amp;apos;, java.version: &amp;apos;17.0.10&amp;apos;
+Driver info: driver.version: unknown
+Build info: version: &amp;apos;4.19.0&amp;apos;, revision: &amp;apos;5f9cec8963&amp;apos;
+System info: os.name: &amp;apos;Linux&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;6.1.90&amp;apos;, java.version: &amp;apos;17.0.10&amp;apos;
+Driver info: driver.version: unknown
+Build info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;unknown&amp;apos;, time: &amp;apos;unknown&amp;apos;
+System info: host: &amp;apos;MOHAN&amp;apos;, ip: &amp;apos;192.168.1.4&amp;apos;, os.name: &amp;apos;Windows 11&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;17.0.7&amp;apos;
+Driver info: driver.version: CRemoteWebDriver
+remote stacktrace: [{fileName=SessionNotCreated.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.SessionNotCreated, lineNumber=56, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$TemplatizedRoute, lineNumber=192, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=RequiresSecretFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.grid.security.RequiresSecretFilter, lineNumber=62, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=NewSessionQueue.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.NewSessionQueue, lineNumber=128, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=AddWebDriverSpecHeaders.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.AddWebDriverSpecHeaders, lineNumber=35, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=SeleniumHandler.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$channelRead0$0, className=org.openqa.selenium.netty.server.SeleniumHandler, lineNumber=44, classLoaderName=app}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=call, className=java.util.concurrent.Executors$RunnableAdapter, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.FutureTask, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=runWorker, className=java.util.concurrent.ThreadPoolExecutor, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.ThreadPoolExecutor$Worker, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.lang.Thread, lineNumber=-1, classLoaderName=null}]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.execute(CRemoteWebDriver.java:30)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&amp;lt;init&amp;gt;(RemoteWebDriver.java:131)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.&amp;lt;init&amp;gt;(CRemoteWebDriver.java:20)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewRemoteWebDriver(DriverFactory.java:566)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startRemoteBrowser(DriverFactory.java:345)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: ''</message>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>117</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>openBrowser</method>
+      <line>82</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>execute</method>
+      <line>68</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>74</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>openBrowser</method>
+      <line>64</line>
+    </frame>
+    <frame>
+      <class>Product_Navigation_Reptiles</class>
+      <method>run</method>
+      <line>20</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>150</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1728104655956</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Could not start a new session. Could not start a new session. Unable to create new session 
+Host info: host: &apos;testcloud-grid-distributor-d685cf49b-fvq9h&apos;, ip: &apos;10.50.12.146&apos;
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;3.141.59&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;MOHAN&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CRemoteWebDriver
+remote stacktrace: [{fileName=SessionNotCreated.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.SessionNotCreated, lineNumber=56, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$TemplatizedRoute, lineNumber=192, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=RequiresSecretFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.grid.security.RequiresSecretFilter, lineNumber=62, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=NewSessionQueue.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.NewSessionQueue, lineNumber=128, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=AddWebDriverSpecHeaders.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.AddWebDriverSpecHeaders, lineNumber=35, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=SeleniumHandler.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$channelRead0$0, className=org.openqa.selenium.netty.server.SeleniumHandler, lineNumber=44, classLoaderName=app}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=call, className=java.util.concurrent.Executors$RunnableAdapter, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.FutureTask, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=runWorker, className=java.util.concurrent.ThreadPoolExecutor, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.ThreadPoolExecutor$Worker, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.lang.Thread, lineNumber=-1, classLoaderName=null}]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.execute(CRemoteWebDriver.java:30)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at com.kms.katalon.selenium.driver.CRemoteWebDriver.&lt;init&gt;(CRemoteWebDriver.java:20)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewRemoteWebDriver(DriverFactory.java:566)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startRemoteBrowser(DriverFactory.java:345)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Product_Navigation_Reptiles.run(Product_Navigation_Reptiles:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1728104655956.run(TempTestSuite1728104655956.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">org.openqa.selenium.SessionNotCreatedException</property>
+  <property name="failed.exception.message">Could not start a new session. Could not start a new session. Could not start a new session. Unable to create new session 
+Host info: host: &apos;testcloud-grid-distributor-d685cf49b-fvq9h&apos;, ip: &apos;10.50.12.146&apos;
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;4.19.0&apos;, revision: &apos;5f9cec8963&apos;
+System info: os.name: &apos;Linux&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1.90&apos;, java.version: &apos;17.0.10&apos;
+Driver info: driver.version: unknown
+Build info: version: &apos;3.141.59&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
+System info: host: &apos;MOHAN&apos;, ip: &apos;192.168.1.4&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CRemoteWebDriver
+remote stacktrace: [{fileName=SessionNotCreated.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.SessionNotCreated, lineNumber=56, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$TemplatizedRoute, lineNumber=192, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=RequiresSecretFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.grid.security.RequiresSecretFilter, lineNumber=62, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=NewSessionQueue.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.grid.sessionqueue.NewSessionQueue, lineNumber=128, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=handle, className=org.openqa.selenium.remote.http.Route$CombinedRoute, lineNumber=346, classLoaderName=app}, {fileName=Route.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Route, lineNumber=69, classLoaderName=app}, {fileName=AddWebDriverSpecHeaders.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.AddWebDriverSpecHeaders, lineNumber=35, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=ErrorFilter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$apply$0, className=org.openqa.selenium.remote.ErrorFilter, lineNumber=44, classLoaderName=app}, {fileName=Filter.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=execute, className=org.openqa.selenium.remote.http.Filter$1, lineNumber=63, classLoaderName=app}, {fileName=SeleniumHandler.java, moduleVersion=null, moduleName=null, nativeMethod=false, methodName=lambda$channelRead0$0, className=org.openqa.selenium.netty.server.SeleniumHandler, lineNumber=44, classLoaderName=app}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=call, className=java.util.concurrent.Executors$RunnableAdapter, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.FutureTask, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=runWorker, className=java.util.concurrent.ThreadPoolExecutor, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.util.concurrent.ThreadPoolExecutor$Worker, lineNumber=-1, classLoaderName=null}, {fileName=null, moduleVersion=17.0.10, moduleName=java.base, nativeMethod=false, methodName=run, className=java.lang.Thread, lineNumber=-1, classLoaderName=null}]</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.239038900Z</date>
+  <millis>1728104682239</millis>
+  <nanos>38900</nanos>
+  <sequence>26</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product_Navigation_Reptiles</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.245099200Z</date>
+  <millis>1728104682245</millis>
+  <nanos>99200</nanos>
+  <sequence>27</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Product_Navigation_Reptiles</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">2</property>
+  <property name="name">Test Cases/Product_Navigation_Reptiles</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Product_Navigation_Reptiles</property>
+  <property name="source">C:\Users\WINDOWS11\git\katalonTeam_EY_Repo\Test Cases\Product_Navigation_Reptiles.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">1</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.258251100Z</date>
+  <millis>1728104682258</millis>
+  <nanos>251100</nanos>
+  <sequence>29</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.272445100Z</date>
+  <millis>1728104682272</millis>
+  <nanos>445100</nanos>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;os&amp;apos;, &amp;apos;windows&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.272445100Z</date>
+  <millis>1728104682272</millis>
+  <nanos>445100</nanos>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;browserVersion&amp;apos;, &amp;apos;130&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.273442Z</date>
+  <millis>1728104682273</millis>
+  <nanos>442000</nanos>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;browserName&amp;apos;, &amp;apos;msedge&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.273442Z</date>
+  <millis>1728104682273</millis>
+  <nanos>442000</nanos>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;katalon:option&amp;apos;, &amp;apos;{organizationId=1640769, usingTunnel=false}&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.276476900Z</date>
+  <millis>1728104682276</millis>
+  <nanos>476900</nanos>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Connecting to remote web server &amp;apos;testcloud.katalon.com/hub&amp;apos; with type &amp;apos;Selenium&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:04:42.282000300Z</date>
+  <millis>1728104682282</millis>
+  <nanos>300</nanos>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.055757100Z</date>
+  <millis>1728104716055</millis>
+  <nanos>757100</nanos>
+  <sequence>38</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>remoteDriverUrl = testcloud.katalon.com/hub</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remoteDriverUrl">testcloud.katalon.com/hub</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.055757100Z</date>
+  <millis>1728104716055</millis>
+  <nanos>757100</nanos>
+  <sequence>39</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>remoteOS = Windows</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remoteOS">Windows</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.059604700Z</date>
+  <millis>1728104716059</millis>
+  <nanos>604700</nanos>
+  <sequence>40</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>desiredCapabilities = {
+  &amp;quot;timeouts&amp;quot;: {
+    &amp;quot;implicit&amp;quot;: 0,
+    &amp;quot;pageLoad&amp;quot;: 300000,
+    &amp;quot;script&amp;quot;: 30000
+  },
+  &amp;quot;platform&amp;quot;: &amp;quot;WINDOWS&amp;quot;,
+  &amp;quot;webauthn:extension:credBlob&amp;quot;: true,
+  &amp;quot;acceptInsecureCerts&amp;quot;: false,
+  &amp;quot;browserVersion&amp;quot;: &amp;quot;Chromium&amp;quot;,
+  &amp;quot;fedcm:accounts&amp;quot;: true,
+  &amp;quot;kt:requestId&amp;quot;: &amp;quot;68c8c0a5-81d2-45a2-869c-5c38c23ccade&amp;quot;,
+  &amp;quot;browserName&amp;quot;: &amp;quot;MicrosoftEdge&amp;quot;,
+  &amp;quot;javascriptEnabled&amp;quot;: true,
+  &amp;quot;katalon:option&amp;quot;: {
+    &amp;quot;executionSessionId&amp;quot;: &amp;quot;68c8c0a5-81d2-45a2-869c-5c38c23ccade&amp;quot;,
+    &amp;quot;userId&amp;quot;: 1584481,
+    &amp;quot;organizationId&amp;quot;: &amp;quot;1640769&amp;quot;,
+    &amp;quot;executionId&amp;quot;: &amp;quot;d81397c0-915c-4351-b922-9c57a4fe64bf&amp;quot;,
+    &amp;quot;runFromTestCloud&amp;quot;: true,
+    &amp;quot;usingTunnel&amp;quot;: false
+  },
+  &amp;quot;platformName&amp;quot;: &amp;quot;WINDOWS&amp;quot;,
+  &amp;quot;ms:edgeOptions&amp;quot;: {
+    &amp;quot;debuggerAddress&amp;quot;: &amp;quot;localhost:53601&amp;quot;
+  },
+  &amp;quot;setWindowRect&amp;quot;: true,
+  &amp;quot;webauthn:extension:largeBlob&amp;quot;: true,
+  &amp;quot;networkConnectionEnabled&amp;quot;: false,
+  &amp;quot;msedge&amp;quot;: {
+    &amp;quot;msedgedriverVersion&amp;quot;: &amp;quot;130.0.2808.0 (5c3f41eaa88cacf4fdb8000c5391269608bd1965)&amp;quot;,
+    &amp;quot;userDataDir&amp;quot;: &amp;quot;C:\\Program Files (x86)\\scoped_dir2832_923939045&amp;quot;
+  },
+  &amp;quot;kt:rid&amp;quot;: &amp;quot;68c8c0a5-81d2-45a2-869c-5c38c23ccade&amp;quot;,
+  &amp;quot;pageLoadStrategy&amp;quot;: &amp;quot;normal&amp;quot;,
+  &amp;quot;unhandledPromptBehavior&amp;quot;: &amp;quot;dismiss and notify&amp;quot;,
+  &amp;quot;strictFileInteractability&amp;quot;: false,
+  &amp;quot;***:loadExtension&amp;quot;: [
+    &amp;quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&amp;quot;
+  ],
+  &amp;quot;se:cdp&amp;quot;: &amp;quot;ws://10.50.46.170:4444/session/aa9d7da402dc94e998a4e6b0c0008a0e/se/cdp&amp;quot;,
+  &amp;quot;se:bidiEnabled&amp;quot;: false,
+  &amp;quot;proxy&amp;quot;: {
+    &amp;quot;proxyType&amp;quot;: &amp;quot;UNSPECIFIED&amp;quot;,
+    &amp;quot;autodetect&amp;quot;: false
+  },
+  &amp;quot;webauthn:extension:minPinLength&amp;quot;: true,
+  &amp;quot;webauthn:extension:prf&amp;quot;: true,
+  &amp;quot;webauthn:virtualAuthenticators&amp;quot;: true
+}</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="desiredCapabilities">{
+  &quot;timeouts&quot;: {
+    &quot;implicit&quot;: 0,
+    &quot;pageLoad&quot;: 300000,
+    &quot;script&quot;: 30000
+  },
+  &quot;platform&quot;: &quot;WINDOWS&quot;,
+  &quot;webauthn:extension:credBlob&quot;: true,
+  &quot;acceptInsecureCerts&quot;: false,
+  &quot;browserVersion&quot;: &quot;Chromium&quot;,
+  &quot;fedcm:accounts&quot;: true,
+  &quot;kt:requestId&quot;: &quot;68c8c0a5-81d2-45a2-869c-5c38c23ccade&quot;,
+  &quot;browserName&quot;: &quot;MicrosoftEdge&quot;,
+  &quot;javascriptEnabled&quot;: true,
+  &quot;katalon:option&quot;: {
+    &quot;executionSessionId&quot;: &quot;68c8c0a5-81d2-45a2-869c-5c38c23ccade&quot;,
+    &quot;userId&quot;: 1584481,
+    &quot;organizationId&quot;: &quot;1640769&quot;,
+    &quot;executionId&quot;: &quot;d81397c0-915c-4351-b922-9c57a4fe64bf&quot;,
+    &quot;runFromTestCloud&quot;: true,
+    &quot;usingTunnel&quot;: false
+  },
+  &quot;platformName&quot;: &quot;WINDOWS&quot;,
+  &quot;ms:edgeOptions&quot;: {
+    &quot;debuggerAddress&quot;: &quot;localhost:53601&quot;
+  },
+  &quot;setWindowRect&quot;: true,
+  &quot;webauthn:extension:largeBlob&quot;: true,
+  &quot;networkConnectionEnabled&quot;: false,
+  &quot;msedge&quot;: {
+    &quot;msedgedriverVersion&quot;: &quot;130.0.2808.0 (5c3f41eaa88cacf4fdb8000c5391269608bd1965)&quot;,
+    &quot;userDataDir&quot;: &quot;C:\\Program Files (x86)\\scoped_dir2832_923939045&quot;
+  },
+  &quot;kt:rid&quot;: &quot;68c8c0a5-81d2-45a2-869c-5c38c23ccade&quot;,
+  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,
+  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,
+  &quot;strictFileInteractability&quot;: false,
+  &quot;***:loadExtension&quot;: [
+    &quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&quot;
+  ],
+  &quot;se:cdp&quot;: &quot;ws://10.50.46.170:4444/session/aa9d7da402dc94e998a4e6b0c0008a0e/se/cdp&quot;,
+  &quot;se:bidiEnabled&quot;: false,
+  &quot;proxy&quot;: {
+    &quot;proxyType&quot;: &quot;UNSPECIFIED&quot;,
+    &quot;autodetect&quot;: false
+  },
+  &quot;webauthn:extension:minPinLength&quot;: true,
+  &quot;webauthn:extension:prf&quot;: true,
+  &quot;webauthn:virtualAuthenticators&quot;: true
+}</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.061602100Z</date>
+  <millis>1728104716061</millis>
+  <nanos>602100</nanos>
+  <sequence>41</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = aa9d7da402dc94e998a4e6b0c0008a0e</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="sessionId">aa9d7da402dc94e998a4e6b0c0008a0e</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.368513400Z</date>
+  <millis>1728104716368</millis>
+  <nanos>513400</nanos>
+  <sequence>42</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Edge Chromium 130</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="browser">Edge Chromium 130</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.369019600Z</date>
+  <millis>1728104716369</millis>
+  <nanos>19600</nanos>
+  <sequence>43</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 11</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="platform">Windows 11</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.370024100Z</date>
+  <millis>1728104716370</millis>
+  <nanos>24100</nanos>
+  <sequence>44</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.141.59</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="seleniumVersion">3.141.59</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.371204Z</date>
+  <millis>1728104716371</millis>
+  <nanos>204000</nanos>
+  <sequence>45</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&amp;quot;&amp;quot;, isApplyToDesiredCapabilities=true }</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="proxyInformation">ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.962663Z</date>
+  <millis>1728104716962</millis>
+  <nanos>663000</nanos>
+  <sequence>46</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.965442900Z</date>
+  <millis>1728104716965</millis>
+  <nanos>442900</nanos>
+  <sequence>47</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:16.966563300Z</date>
+  <millis>1728104716966</millis>
+  <nanos>563300</nanos>
+  <sequence>48</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(&amp;quot;https://petstore.octoperf.com/&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:17.825231400Z</date>
+  <millis>1728104717825</millis>
+  <nanos>231400</nanos>
+  <sequence>51</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://petstore.octoperf.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:17.827234800Z</date>
+  <millis>1728104717827</millis>
+  <nanos>234800</nanos>
+  <sequence>52</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(&amp;quot;https://petstore.octoperf.com/&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:17.827234800Z</date>
+  <millis>1728104717827</millis>
+  <nanos>234800</nanos>
+  <sequence>53</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Enter the Store&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:20.151032800Z</date>
+  <millis>1728104720151</millis>
+  <nanos>32800</nanos>
+  <sequence>63</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/a_Enter the Store&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:20.153055500Z</date>
+  <millis>1728104720153</millis>
+  <nanos>55500</nanos>
+  <sequence>64</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Enter the Store&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:20.153560500Z</date>
+  <millis>1728104720153</millis>
+  <nanos>560500</nanos>
+  <sequence>65</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/img&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:21.859805700Z</date>
+  <millis>1728104721859</millis>
+  <nanos>805700</nanos>
+  <sequence>75</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/img&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:21.861800900Z</date>
+  <millis>1728104721861</millis>
+  <nanos>800900</nanos>
+  <sequence>76</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/img&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:21.861800900Z</date>
+  <millis>1728104721861</millis>
+  <nanos>800900</nanos>
+  <sequence>77</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_RP-SN-01&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">28</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:23.476691400Z</date>
+  <millis>1728104723476</millis>
+  <nanos>691400</nanos>
+  <sequence>87</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/a_RP-SN-01&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:23.477686500Z</date>
+  <millis>1728104723477</millis>
+  <nanos>686500</nanos>
+  <sequence>88</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_RP-SN-01&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:23.478683700Z</date>
+  <millis>1728104723478</millis>
+  <nanos>683700</nanos>
+  <sequence>89</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_EST-11&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:25.351385200Z</date>
+  <millis>1728104725351</millis>
+  <nanos>385200</nanos>
+  <sequence>99</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/a_EST-11&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:25.353800400Z</date>
+  <millis>1728104725353</millis>
+  <nanos>800400</nanos>
+  <sequence>100</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_EST-11&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:25.353800400Z</date>
+  <millis>1728104725353</millis>
+  <nanos>800400</nanos>
+  <sequence>101</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Add to Cart&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">32</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:26.951492700Z</date>
+  <millis>1728104726951</millis>
+  <nanos>492700</nanos>
+  <sequence>111</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/a_Add to Cart&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:26.953491600Z</date>
+  <millis>1728104726953</millis>
+  <nanos>491600</nanos>
+  <sequence>112</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Add to Cart&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:26.953491600Z</date>
+  <millis>1728104726953</millis>
+  <nanos>491600</nanos>
+  <sequence>113</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Proceed to Checkout&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">34</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:28.582358Z</date>
+  <millis>1728104728582</millis>
+  <nanos>358000</nanos>
+  <sequence>123</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/a_Proceed to Checkout&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:28.584510100Z</date>
+  <millis>1728104728584</millis>
+  <nanos>510100</nanos>
+  <sequence>124</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Proceed to Checkout&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:28.586505900Z</date>
+  <millis>1728104728586</millis>
+  <nanos>505900</nanos>
+  <sequence>125</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/img&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">36</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:30.169316800Z</date>
+  <millis>1728104730169</millis>
+  <nanos>316800</nanos>
+  <sequence>135</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/img&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:30.171541100Z</date>
+  <millis>1728104730171</millis>
+  <nanos>541100</nanos>
+  <sequence>136</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/img&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:30.172542900Z</date>
+  <millis>1728104730172</millis>
+  <nanos>542900</nanos>
+  <sequence>137</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Return to Main Menu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">38</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:31.784343800Z</date>
+  <millis>1728104731784</millis>
+  <nanos>343800</nanos>
+  <sequence>147</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Reptiles/Page_JPetStore Demo/a_Return to Main Menu&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:31.786345600Z</date>
+  <millis>1728104731786</millis>
+  <nanos>345600</nanos>
+  <sequence>148</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;Object Repository/Reptiles/Page_JPetStore Demo/a_Return to Main Menu&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:31.786345600Z</date>
+  <millis>1728104731786</millis>
+  <nanos>345600</nanos>
+  <sequence>149</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">40</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:32.882998400Z</date>
+  <millis>1728104732882</millis>
+  <nanos>998400</nanos>
+  <sequence>151</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.CloseBrowserKeyword.closeBrowser</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-10-05T05:05:32.884357100Z</date>
+  <millis>1728104732884</millis>
+  <nanos>357100</nanos>
+  <sequence>152</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:32.885365900Z</date>
+  <millis>1728104732885</millis>
+  <nanos>365900</nanos>
+  <sequence>153</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Product_Navigation_Reptiles</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:32.886358600Z</date>
+  <millis>1728104732886</millis>
+  <nanos>358600</nanos>
+  <sequence>154</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Product_Navigation_Reptiles</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">2</property>
+  <property name="currentRetryCount">1</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2024-10-05T05:05:32.887356300Z</date>
+  <millis>1728104732887</millis>
+  <nanos>356300</nanos>
+  <sequence>155</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:33.183601100Z</date>
+  <millis>1728104733183</millis>
+  <nanos>601100</nanos>
+  <sequence>293</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: C:\Users\WINDOWS11\git\katalonTeam_EY_Repo\Reports\20241005_103415\TS_Product_Navigation_Reptiles\20241005_103415...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:33.849020200Z</date>
+  <millis>1728104733849</millis>
+  <nanos>20200</nanos>
+  <sequence>294</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:33.849020200Z</date>
+  <millis>1728104733849</millis>
+  <nanos>20200</nanos>
+  <sequence>295</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: C:\Users\WINDOWS11\git\katalonTeam_EY_Repo\Reports\20241005_103415\TS_Product_Navigation_Reptiles\20241005_103415...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:33.873179Z</date>
+  <millis>1728104733873</millis>
+  <nanos>179000</nanos>
+  <sequence>296</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:33.876559Z</date>
+  <millis>1728104733876</millis>
+  <nanos>559000</nanos>
+  <sequence>298</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-10-05T05:05:33.910156100Z</date>
+  <millis>1728104733910</millis>
+  <nanos>156100</nanos>
+  <sequence>299</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/TS_Product_Navigation_Reptiles</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>

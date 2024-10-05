@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Product_Navigation_Birds,TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:48:02,05-10-2024 10:49:21,1m - 19.343s,PASSED
+,,,,,,,
+Test Cases/Product_Navigation_Birds,TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:48:02,05-10-2024 10:49:21,1m - 19.137s,PASSED
+"openBrowser("""")",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:48:02,05-10-2024 10:49:02,59.897s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:02,05-10-2024 10:49:03,1.091s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Enter the Store""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:03,05-10-2024 10:49:06,2.288s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/img""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:06,05-10-2024 10:49:08,1.873s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_AV-CB-01""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:08,05-10-2024 10:49:09,1.734s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_EST-18""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:09,05-10-2024 10:49:11,2.014s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Add to Cart""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:11,05-10-2024 10:49:13,1.817s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Proceed to Checkout""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:13,05-10-2024 10:49:15,1.837s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/img""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:15,05-10-2024 10:49:17,2.224s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Return to Main Menu""))",TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:17,05-10-2024 10:49:19,1.905s,PASSED
+closeBrowser(),TestCloud - Windows - Edge Chromium 127,,,05-10-2024 10:49:19,05-10-2024 10:49:21,2.181s,PASSED

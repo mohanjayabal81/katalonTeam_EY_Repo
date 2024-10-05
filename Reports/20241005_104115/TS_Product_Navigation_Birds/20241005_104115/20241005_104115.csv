@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Product_Navigation_Birds,TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:41:22,05-10-2024 10:42:43,1m - 20.699s,PASSED
+,,,,,,,
+Test Cases/Product_Navigation_Birds,TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:41:23,05-10-2024 10:42:43,1m - 20.483s,PASSED
+"openBrowser("""")",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:41:23,05-10-2024 10:42:23,1m - 0.270s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:23,05-10-2024 10:42:24,0.926s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Enter the Store""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:24,05-10-2024 10:42:29,5.119s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/img""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:29,05-10-2024 10:42:31,1.585s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_AV-CB-01""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:31,05-10-2024 10:42:32,1.584s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_EST-18""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:32,05-10-2024 10:42:34,1.802s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Add to Cart""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:34,05-10-2024 10:42:36,1.565s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Proceed to Checkout""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:36,05-10-2024 10:42:37,1.642s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/img""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:37,05-10-2024 10:42:39,1.650s,PASSED
+"click(findTestObject(""Object Repository/Birds/Page_JPetStore Demo/a_Return to Main Menu""))",TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:39,05-10-2024 10:42:41,2.043s,PASSED
+closeBrowser(),TestCloud - Windows - Firefox 129.0,,,05-10-2024 10:42:41,05-10-2024 10:42:43,2.001s,PASSED

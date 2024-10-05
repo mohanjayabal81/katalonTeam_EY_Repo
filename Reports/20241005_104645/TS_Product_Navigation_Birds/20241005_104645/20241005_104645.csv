@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Product_Navigation_Birds,,,,05-10-2024 10:46:52,05-10-2024 10:47:03,11.137s,FAILED
+,,,,,,,
+Test Cases/Product_Navigation_Birds,,,,05-10-2024 10:47:01,05-10-2024 10:47:03,2.086s,FAILED
+"openBrowser("""")",,,,05-10-2024 10:47:01,05-10-2024 10:47:03,2.068s,FAILED
