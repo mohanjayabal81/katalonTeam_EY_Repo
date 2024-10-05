@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignIn_SignOut</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2cb0ae48-ab98-42ec-a3f6-37d476aa9496</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_Product_Navigation_Birds" time="98.082" tests="1" failures="0" errors="0">
+   <testsuite name="TS_Product_Navigation_Birds" tests="1" failures="0" errors="0" time="98.082" skipped="0" timestamp="05-10-2024T11:02:03" hostname="WINDOWS11 - Mohan" id="Test Suites/TS_Product_Navigation_Birds">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="C:\\Users\\WINDOWS11\\git\\katalonTeam_EY_Repo\\Reports\\20241005_110156\\TS_Product_Navigation_Birds\\20241005_110156"/>
+         <property name="logFiles" value="C:\\Users\\WINDOWS11\\git\\katalonTeam_EY_Repo\\Reports\\20241005_110156\\TS_Product_Navigation_Birds\\20241005_110156\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="WINDOWS11 - Mohan"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;timeouts&quot;: {&#xa;    &quot;implicit&quot;: 0,&#xa;    &quot;pageLoad&quot;: 300000,&#xa;    &quot;script&quot;: 30000&#xa;  },&#xa;  &quot;se:cdpEnabled&quot;: false,&#xa;  &quot;platform&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;goog:chromeOptions&quot;: {&#xa;    &quot;debuggerAddress&quot;: &quot;localhost:9225&quot;&#xa;  },&#xa;  &quot;webauthn:extension:credBlob&quot;: true,&#xa;  &quot;acceptInsecureCerts&quot;: false,&#xa;  &quot;browserVersion&quot;: &quot;130.0.0.0&quot;,&#xa;  &quot;fedcm:accounts&quot;: true,&#xa;  &quot;kt:requestId&quot;: &quot;c3efdd1b-9aaf-49fc-bfca-a27848f21594&quot;,&#xa;  &quot;browserName&quot;: &quot;chrome&quot;,&#xa;  &quot;javascriptEnabled&quot;: true,&#xa;  &quot;katalon:option&quot;: {&#xa;    &quot;apiKey&quot;: &quot;41340229-f8ae-4b52-860d-763466756b1f&quot;,&#xa;    &quot;tunnelMetadataId&quot;: &quot;d3fe128c-7b89-4543-bf7c-fdcc8f872fd2&quot;,&#xa;    &quot;executionSessionId&quot;: &quot;c3efdd1b-9aaf-49fc-bfca-a27848f21594&quot;,&#xa;    &quot;userId&quot;: 1584481,&#xa;    &quot;organizationId&quot;: &quot;1640769&quot;,&#xa;    &quot;executionId&quot;: &quot;28757711-7f45-49da-bf56-dc876ab10cb2&quot;,&#xa;    &quot;runFromTestCloud&quot;: true,&#xa;    &quot;tenant&quot;: &quot;TestOps&quot;,&#xa;    &quot;group&quot;: &quot;d56af230-7f0a-447b-a61f-517e4baecd15&quot;,&#xa;    &quot;usingTunnel&quot;: true&#xa;  },&#xa;  &quot;platformName&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;setWindowRect&quot;: true,&#xa;  &quot;webauthn:extension:largeBlob&quot;: true,&#xa;  &quot;networkConnectionEnabled&quot;: false,&#xa;  &quot;chrome&quot;: {&#xa;    &quot;chromedriverVersion&quot;: &quot;130.0.6683.2 (eb5bf4dd15f4ae83ebe030375ef5e642ec879323-refs/branch-heads/6683@{#5})&quot;,&#xa;    &quot;userDataDir&quot;: &quot;C:\\Windows\\SystemTemp\\scoped_dir5628_1184952403&quot;&#xa;  },&#xa;  &quot;kt:rid&quot;: &quot;c3efdd1b-9aaf-49fc-bfca-a27848f21594&quot;,&#xa;  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,&#xa;  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,&#xa;  &quot;strictFileInteractability&quot;: false,&#xa;  &quot;***:loadExtension&quot;: [&#xa;    &quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&quot;&#xa;  ],&#xa;  &quot;se:bidiEnabled&quot;: false,&#xa;  &quot;proxy&quot;: {&#xa;    &quot;proxyType&quot;: &quot;UNSPECIFIED&quot;,&#xa;    &quot;autodetect&quot;: false&#xa;  },&#xa;  &quot;webauthn:extension:minPinLength&quot;: true,&#xa;  &quot;webauthn:extension:prf&quot;: true,&#xa;  &quot;webauthn:virtualAuthenticators&quot;: true&#xa;}"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 130.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="6d8bb08d00ec17183d88b84f40b46ca2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Product_Navigation_Birds" time="97.894" classname="Test Cases/Product_Navigation_Birds" status="PASSED">
+         <system-out><![CDATA[05-10-2024T11:02:03 - [TEST_CASE][PASSED] - Test Cases/Product_Navigation_Birds: Test Cases/Product_Navigation_Birds
+
+05-10-2024T11:02:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-10-2024T11:02:04 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+05-10-2024T11:02:04 - [MESSAGE][INFO] - User set preference: ['browserVersion', '130']
+
+05-10-2024T11:02:04 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+05-10-2024T11:02:04 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1640769, usingTunnel=true}']
+
+05-10-2024T11:02:04 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+05-10-2024T11:02:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-10-2024T11:03:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-10-2024T11:03:23 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/"): Navigate to 'https://petstore.octoperf.com/' successfully
+
+05-10-2024T11:03:25 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+05-10-2024T11:03:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/a_Enter the Store")): Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+05-10-2024T11:03:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+05-10-2024T11:03:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/img")): Object: 'Object Repository/Birds/Page_JPetStore Demo/img' is clicked on
+
+05-10-2024T11:03:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/img' is clicked on
+
+05-10-2024T11:03:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/a_AV-CB-01")): Object: 'Object Repository/Birds/Page_JPetStore Demo/a_AV-CB-01' is clicked on
+
+05-10-2024T11:03:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/a_AV-CB-01' is clicked on
+
+05-10-2024T11:03:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/a_EST-18")): Object: 'Object Repository/Birds/Page_JPetStore Demo/a_EST-18' is clicked on
+
+05-10-2024T11:03:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/a_EST-18' is clicked on
+
+05-10-2024T11:03:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+05-10-2024T11:03:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+05-10-2024T11:03:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/a_Proceed to Checkout")): Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+05-10-2024T11:03:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+05-10-2024T11:03:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/img")): Object: 'Object Repository/Birds/Page_JPetStore Demo/img' is clicked on
+
+05-10-2024T11:03:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/img' is clicked on
+
+05-10-2024T11:03:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Birds/Page_JPetStore Demo/a_Return to Main Menu")): Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Return to Main Menu' is clicked on
+
+05-10-2024T11:03:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Birds/Page_JPetStore Demo/a_Return to Main Menu' is clicked on
+
+05-10-2024T11:03:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-10-2024T11:03:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[05-10-2024T11:02:03 - [TEST_SUITE][PASSED] - TS_Product_Navigation_Birds: Test Cases/Product_Navigation_Birds]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://petstore.octoperf.com/')
 
-WebUI.click(findTestObject('Object Repository/Reptiles/Page_JPetStore Demo/a_Enter the Store'))
+CustomKeywords.'newPackage.MyKeyword1.clickElement1'(findTestObject('Reptiles/Page_JPetStore Demo/a_Enter the Store'))
 
 WebUI.click(findTestObject('Object Repository/Reptiles/Page_JPetStore Demo/img'))
 

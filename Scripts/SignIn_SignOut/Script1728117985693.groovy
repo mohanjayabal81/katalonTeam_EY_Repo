@@ -21,23 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://petstore.octoperf.com/')
 
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/a_Enter the Store'))
+WebUI.click(findTestObject('Object Repository/SignIn_SignOut/Page_JPetStore Demo/a_Enter the Store'))
 
-CustomKeywords.'newPackage.MyKeyword.refreshBrowser'()
+CustomKeywords.'newPackage.MyKeyword.clickElement'(findTestObject('SignIn_SignOut/Page_JPetStore Demo/a_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/img'))
+//WebUI.click(findTestObject('Object Repository/SignIn_SignOut/Page_JPetStore Demo/a_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/a_AV-CB-01'))
+WebUI.setText(findTestObject('Object Repository/SignIn_SignOut/Page_JPetStore Demo/input_Need a user name and password_username'), 
+    'mohan')
 
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/a_EST-18'))
+WebUI.setText(findTestObject('Object Repository/SignIn_SignOut/Page_JPetStore Demo/input_Need a user name and password_password'), 
+    'mohan')
 
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/a_Add to Cart'))
+WebUI.click(findTestObject('Object Repository/SignIn_SignOut/Page_JPetStore Demo/input_Need a user name and password_signon'))
 
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/a_Proceed to Checkout'))
-
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/img'))
-
-WebUI.click(findTestObject('Object Repository/Birds/Page_JPetStore Demo/a_Return to Main Menu'))
+WebUI.click(findTestObject('Object Repository/SignIn_SignOut/Page_JPetStore Demo/a_Sign Out'))
 
 WebUI.closeBrowser()
 

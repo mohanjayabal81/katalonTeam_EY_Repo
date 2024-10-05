@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_SignIn_SignOut,Chrome 129.0.0.0,,,05-10-2024 14:29:37,05-10-2024 14:29:45,8.454s,PASSED
+,,,,,,,
+Test Cases/SignIn_SignOut,Chrome 129.0.0.0,,,05-10-2024 14:29:37,05-10-2024 14:29:45,8.224s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,05-10-2024 14:29:37,05-10-2024 14:29:39,1.881s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,05-10-2024 14:29:39,05-10-2024 14:29:40,0.872s,PASSED
+"click(findTestObject(""Object Repository/SignIn_SignOut/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,05-10-2024 14:29:40,05-10-2024 14:29:41,1.188s,PASSED
+"click(findTestObject(""Object Repository/SignIn_SignOut/Page_JPetStore Demo/a_Sign In""))",Chrome 129.0.0.0,,,05-10-2024 14:29:41,05-10-2024 14:29:42,0.618s,PASSED
+"setText(findTestObject(""Object Repository/SignIn_SignOut/Page_JPetStore Demo/input_Need a user name and password_username""), ""mohan"")",Chrome 129.0.0.0,,,05-10-2024 14:29:42,05-10-2024 14:29:42,0.724s,PASSED
+"setText(findTestObject(""Object Repository/SignIn_SignOut/Page_JPetStore Demo/input_Need a user name and password_password""), ""mohan"")",Chrome 129.0.0.0,,,05-10-2024 14:29:42,05-10-2024 14:29:43,0.660s,PASSED
+"click(findTestObject(""Object Repository/SignIn_SignOut/Page_JPetStore Demo/input_Need a user name and password_signon""))",Chrome 129.0.0.0,,,05-10-2024 14:29:43,05-10-2024 14:29:44,0.751s,PASSED
+"click(findTestObject(""Object Repository/SignIn_SignOut/Page_JPetStore Demo/a_Sign Out""))",Chrome 129.0.0.0,,,05-10-2024 14:29:44,05-10-2024 14:29:45,0.862s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,05-10-2024 14:29:45,05-10-2024 14:29:45,0.357s,PASSED
