@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_Dogs" time="8.289" tests="1" failures="0" errors="0">
+   <testsuite name="TS_Dogs" tests="1" failures="0" errors="0" time="8.289" skipped="0" timestamp="05-10-2024T16:11:04" hostname="WINDOWS11 - Mohan" id="Test Suites/TS_Dogs">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\WINDOWS11\\git\\katalonTeam_EY_Repo\\Reports\\20241005_161055\\TS_Dogs\\20241005_161056"/>
+         <property name="logFiles" value="C:\\Users\\WINDOWS11\\git\\katalonTeam_EY_Repo\\Reports\\20241005_161055\\TS_Dogs\\20241005_161056\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="WINDOWS11 - Mohan"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="224b1c052436e8f554c3a00300bcbe81"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Testcase1" time="8.068" classname="Test Cases/Testcase1" status="PASSED">
+         <system-out><![CDATA[05-10-2024T16:11:04 - [TEST_CASE][PASSED] - Test Cases/Testcase1: Test Cases/Testcase1
+
+05-10-2024T16:11:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-10-2024T16:11:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-10-2024T16:11:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-10-2024T16:11:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-10-2024T16:11:06 - [TEST_STEP][PASSED] - navigateToUrl("https://petstore.octoperf.com/"): Navigate to 'https://petstore.octoperf.com/' successfully
+
+05-10-2024T16:11:07 - [MESSAGE][PASSED] - Navigate to 'https://petstore.octoperf.com/' successfully
+
+05-10-2024T16:11:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dogs/Page_JPetStore Demo/a_Enter the Store")): Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+05-10-2024T16:11:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_Enter the Store' is clicked on
+
+05-10-2024T16:11:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dogs/Page_JPetStore Demo/img")): Object: 'Object Repository/Dogs/Page_JPetStore Demo/img' is clicked on
+
+05-10-2024T16:11:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Dogs/Page_JPetStore Demo/img' is clicked on
+
+05-10-2024T16:11:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dogs/Page_JPetStore Demo/a_K9-BD-01")): Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_K9-BD-01' is clicked on
+
+05-10-2024T16:11:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_K9-BD-01' is clicked on
+
+05-10-2024T16:11:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dogs/Page_JPetStore Demo/a_EST-6")): Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_EST-6' is clicked on
+
+05-10-2024T16:11:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_EST-6' is clicked on
+
+05-10-2024T16:11:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dogs/Page_JPetStore Demo/a_Add to Cart")): Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+05-10-2024T16:11:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_Add to Cart' is clicked on
+
+05-10-2024T16:11:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Dogs/Page_JPetStore Demo/a_Proceed to Checkout")): Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+05-10-2024T16:11:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Dogs/Page_JPetStore Demo/a_Proceed to Checkout' is clicked on
+
+05-10-2024T16:11:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-10-2024T16:11:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[05-10-2024T16:11:04 - [TEST_SUITE][PASSED] - TS_Dogs: Test Cases/Testcase1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
